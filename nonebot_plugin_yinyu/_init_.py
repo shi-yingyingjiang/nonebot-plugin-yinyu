@@ -10,7 +10,10 @@ __plugin_meta__ = PluginMetadata(
     name='淫语',
     description='把语句变成淫语',
     usage='淫语',
-    extra={}
+    extra={},
+    type="application",
+    homepage="https://github.com/shi-yingyingjiang/nonebot-plugin-yinyu",
+    supported_adapters={"nonebot.adapters.onebot.v11"},
 )
 
 
