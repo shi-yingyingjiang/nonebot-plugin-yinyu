@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "nonebot-plugin-yinyu"
-version = "0.0.1"
+version = "0.0.2"
 description = "一个语句瑟瑟化插件"
-authors = ["shiyingyingjiang<2798134864@qq.com>"]
+authors = ["shiyingyingjiang <2798134864@qq.com>"]
 license = "MIT"
 readme = "README.md"
 packages = [{include = "nonebot_plugin_yinyu"}]
@@ -15,7 +15,6 @@ python = ">=3.8"
 nonebot2 = ">=2.0.0"
 nonebot-adapter-onebot = ">=2.1.5"
 yinglish = ">=1.0.1"
-nonebot.params = ">0.0.1"
 
 
 
