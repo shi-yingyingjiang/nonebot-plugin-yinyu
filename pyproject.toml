@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "nonebot-plugin-yinyu"
-version = "0.0.3"
+version = "0.0.5"
 description = "一个语句瑟瑟化插件"
 authors = ["shiyingyingjiang <2798134864@qq.com>"]
 license = "MIT"
